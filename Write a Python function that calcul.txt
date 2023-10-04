@@ -1,0 +1,26 @@
+Write a Python function that calculates the sum of even numbers and the sum of all odd numbers in a given range.
+Write a Python function that returns True if the input string matches names of the Uganda Martyrs [listed here: 
+
+Achilleus Kewanuka	
+Adolphus Ludigo-Mukasa	
+Ambrosius Kibuuka	
+Anatoli Kiriggwajjo	
+Andrew Kaggwa	
+Antanansio Bazzekuketta	
+Bruno Sserunkuuma	
+Charles Lwanga	
+Denis Ssebuggwawo Wasswa	
+Gonzaga Gonza	
+Gyavira Musoke	
+James Buuzaabalyaawo	
+John Maria Muzeeyi	
+Joseph Mukasa	
+Kizito	
+Lukka Baanabakintu	
+Matiya Mulumba
+Mbaga Tuzinde	
+Mugagga Lubowa	
+Mukasa Kiriwawanvu	
+Nowa Mawaggali	
+Ponsiano Ngondwe
+]
