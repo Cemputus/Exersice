@@ -22,7 +22,7 @@ def is_uganda_martyr(name):
         "Mukasa Kiriwawanvu",
         "Nowa Mawaggali",
         "Ponsiano Ngondwe"
-    ]   
+    ]    
 
     return name in uganda_martyrs
 
