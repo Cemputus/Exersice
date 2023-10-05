@@ -1,4 +1,5 @@
-Coding Exercises
+## Coding Exercises
+
 Write a function that returns the maximum of two numbers.
 Write a function called fizz_buzz that takes a number.
 If the number is divisible by 3, it should return “Fizz”.
@@ -22,3 +23,4 @@ Write a function called show_stars(rows). If rows is 5, it should print the foll
 ****
 *****
 Write a function that prints all the prime numbers between 0 and limit where limit is a parameter.
+---
